@@ -53,11 +53,11 @@ KPC_NCSI_Report/Data
 
 ## ERD
 
-
+![ERD](https://github.com/Sangbum-K/KPC_NCSI_Report/blob/main/EDR.PNG)
 
 ---
 
 ## 시현 영상
 
-
+![Demo](https://github.com/Sangbum-K/KPC_NCSI_Report/blob/main/Report%20-%20Demo.gif)
 
